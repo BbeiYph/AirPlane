@@ -1,0 +1,1 @@
+{"paths":{"0":["airplane1",1],"1":["airplane1",0,1]},"types":["cc.SpriteFrame","cc.Texture2D"],"uuids":["fefKlDRfdPCZAJMaASU1zv","fdJRCsAAVKYawJ0Sjhp/hk"],"scenes":{},"redirect":[],"deps":[],"packs":{},"name":"resources","importBase":"import","nativeBase":"native","debug":false,"isZip":false,"encrypted":false,"versions":{"import":[1,"d66d3",0,"7871f"],"native":[0,"d9739"]}}
